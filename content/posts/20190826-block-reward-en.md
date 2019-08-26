@@ -12,7 +12,7 @@ The block reward of each new block on CyberMiles will be fixed at 25.36783 CMTs 
 
 The CyberMiles annual inflation starts at 8% at genesis, and it will gradually decrease to zero. For Validators and delegators, this change won't have a significant impact on the staking reward in the short term.
 
-Please vote with careful consideration. Do you agree that with the next mainnet upgrade, the inflation mechanism of CyberMiles to be fixed at 25.36783 CMTs for each block.
+Please vote with careful consideration. Do you agree that with the next mainnet upgrade, the inflation mechanism of CyberMiles to be fixed at 25.36783 CMTs for each block?
 
 
 The voting rules are as follows. 
