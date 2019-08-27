@@ -28,4 +28,5 @@ draft: false
 
 正式投票将于8月29日上午10点开启，9月3日早上10点关闭，届时您可以通过扫描合约二维码或直接在CyberMiles App 进入Community Vote DApp参与投票。
 
-[![](/posts/20190826-buttonen-01.png)](http://cmtvote.codeislaw.co/vote.html?contract=0xb6081c86788bf27acf99f62f41644f0d7afc0769)
+
+[![](/posts/20190826-buttonzh-01.png)](http://cmtvote.codeislaw.co/vote.html?contract=0xb6081c86788bf27acf99f62f41644f0d7afc0769)
