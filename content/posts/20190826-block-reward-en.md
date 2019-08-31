@@ -15,6 +15,8 @@ The CyberMiles annual inflation starts at 8% at genesis, and it will gradually d
 Please vote with careful consideration. Do you agree that with the next mainnet upgrade, the inflation mechanism of CyberMiles to be fixed at 25.36783 CMTs for each block?
 
 
+[![](/posts/20190826-buttonen-02.png)](http://cmtvote.codeislaw.co/vote.html?contract=0xb6081c86788bf27acf99f62f41644f0d7afc0769)
+
 The voting rules are as follows. 
 
 * CMT Wallet is the only tool to vote;
@@ -28,4 +30,3 @@ The CyberMiles Foundation will take a snapshot of all CMT addresses on 8 PM, Aug
 This community vote will start on 7 PM, August 28，and end on 7 PM, September 2nd(PDT). You can scan a QR code or open the Community Vote DApp in CyberMiles App to vote.
 
 
-[![](/posts/20190826-buttonen-02.png)](http://cmtvote.codeislaw.co/vote.html?contract=0xb6081c86788bf27acf99f62f41644f0d7afc0769)
